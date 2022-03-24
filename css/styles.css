@@ -11293,3 +11293,7 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+
+html{
+  scroll-behavior: smooth;
+}
